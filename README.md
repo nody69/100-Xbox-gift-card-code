@@ -45,7 +45,7 @@ Redeeming your $100 Xbox Gift Card is simple and quick. Here’s how you can do 
    - Enter your 25-character Xbox Gift Card code and confirm.
 
 2. **Via Microsoft Store Website**  
-   - Visit the [Microsoft Store](https://www.microsoft.com) website.
+   - Visit the [Microsoft Store] website.
    - Sign in with your Microsoft account.
    - Go to the “Redeem a code” section in your account settings.
    - Enter your code and confirm.
